@@ -74,4 +74,5 @@ Thumbs.db
 # build directories
 build-QMediaStreamer_UI-Desktop_Qt_6_0_3_MinGW_64_bit-Debug
 build
+release
 debug
