@@ -13,7 +13,7 @@
 - .NetStandard Xamarin Forms several component's support (in development);
 
 ## Usage - output:
-- Compile the application using QtCreator and Qt5.8 with MinGW 5.8.0 for your target platform and run from build directory.
+- Compile the application using QtCreator and Qt5.8 with MinGW 5.3.0 for your target platform and run from build directory.
 - Play a song from JSON that has been prviously provided by MediaStreamer.WPF.NetCore3_1 application or created manually.
 
 ## Current Tasks (TODO's):
